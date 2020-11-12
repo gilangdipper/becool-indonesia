@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/gilangdipper/becool-indonesia/static/css/main.25e1b89d.chunk.css",
+    "main.js": "/gilangdipper/becool-indonesia/static/js/main.b37f1642.chunk.js",
+    "main.js.map": "/gilangdipper/becool-indonesia/static/js/main.b37f1642.chunk.js.map",
+    "runtime-main.js": "/gilangdipper/becool-indonesia/static/js/runtime-main.bb2316af.js",
+    "runtime-main.js.map": "/gilangdipper/becool-indonesia/static/js/runtime-main.bb2316af.js.map",
+    "static/js/2.9233762c.chunk.js": "/gilangdipper/becool-indonesia/static/js/2.9233762c.chunk.js",
+    "static/js/2.9233762c.chunk.js.map": "/gilangdipper/becool-indonesia/static/js/2.9233762c.chunk.js.map",
+    "index.html": "/gilangdipper/becool-indonesia/index.html",
+    "precache-manifest.de3f5af9f56da3bbaf4c7114cd637d1d.js": "/gilangdipper/becool-indonesia/precache-manifest.de3f5af9f56da3bbaf4c7114cd637d1d.js",
+    "service-worker.js": "/gilangdipper/becool-indonesia/service-worker.js",
+    "static/css/main.25e1b89d.chunk.css.map": "/gilangdipper/becool-indonesia/static/css/main.25e1b89d.chunk.css.map",
+    "static/js/2.9233762c.chunk.js.LICENSE.txt": "/gilangdipper/becool-indonesia/static/js/2.9233762c.chunk.js.LICENSE.txt",
+    "static/js/main.b37f1642.chunk.js.LICENSE.txt": "/gilangdipper/becool-indonesia/static/js/main.b37f1642.chunk.js.LICENSE.txt",
+    "static/media/argon-react-white.png": "/gilangdipper/becool-indonesia/static/media/argon-react-white.275a2629.png",
+    "static/media/argon-react.png": "/gilangdipper/becool-indonesia/static/media/argon-react.f38ddea9.png",
+    "static/media/creativetim-white-slim.png": "/gilangdipper/becool-indonesia/static/media/creativetim-white-slim.f7cb2d39.png",
+    "static/media/font-awesome.min.css": "/gilangdipper/becool-indonesia/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/github.svg": "/gilangdipper/becool-indonesia/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/gilangdipper/becool-indonesia/static/media/google.87be59a1.svg",
+    "static/media/ill-2.svg": "/gilangdipper/becool-indonesia/static/media/ill-2.594b1ee1.svg",
+    "static/media/img-1-1200x1000.jpg": "/gilangdipper/becool-indonesia/static/media/img-1-1200x1000.1e7c70dc.jpg",
+    "static/media/img-2-1200x1000.jpg": "/gilangdipper/becool-indonesia/static/media/img-2-1200x1000.ba449a06.jpg",
+    "static/media/landing.jpg": "/gilangdipper/becool-indonesia/static/media/landing.0ec26478.jpg",
+    "static/media/nucleo.css": "/gilangdipper/becool-indonesia/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/profile.jpg": "/gilangdipper/becool-indonesia/static/media/profile.278a0d25.jpg",
+    "static/media/promo-1.png": "/gilangdipper/becool-indonesia/static/media/promo-1.75f7ab18.png",
+    "static/media/team-1-800x800.jpg": "/gilangdipper/becool-indonesia/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-2-800x800.jpg": "/gilangdipper/becool-indonesia/static/media/team-2-800x800.dcfcf3b7.jpg",
+    "static/media/team-3-800x800.jpg": "/gilangdipper/becool-indonesia/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/team-4-800x800.jpg": "/gilangdipper/becool-indonesia/static/media/team-4-800x800.23007132.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb2316af.js",
+    "static/js/2.9233762c.chunk.js",
+    "static/css/main.25e1b89d.chunk.css",
+    "static/js/main.b37f1642.chunk.js"
+  ]
+}
