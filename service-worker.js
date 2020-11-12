@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/becool-indonesia/precache-manifest.ed704f5675213f4916a6309b78d3c9ec.js"
+  "/becool-indonesia/precache-manifest.46ec75660246f535bee6360c3c512d33.js"
 );
 
 self.addEventListener('message', (event) => {

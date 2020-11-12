@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86cb6307ce98eff131269287df9c473a",
+    "revision": "f5961a7b12a250b6e70f53515a203e8c",
     "url": "/becool-indonesia/index.html"
   },
   {
-    "revision": "fd3248ee9e6363b87d5d",
+    "revision": "2b17b697e0c7f2126b1f",
     "url": "/becool-indonesia/static/css/main.87117971.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/becool-indonesia/static/js/2.9233762c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd3248ee9e6363b87d5d",
-    "url": "/becool-indonesia/static/js/main.b37f1642.chunk.js"
+    "revision": "2b17b697e0c7f2126b1f",
+    "url": "/becool-indonesia/static/js/main.f942a5d6.chunk.js"
   },
   {
     "revision": "7a6956e196ccd2e4ccc8856708b02847",
-    "url": "/becool-indonesia/static/js/main.b37f1642.chunk.js.LICENSE.txt"
+    "url": "/becool-indonesia/static/js/main.f942a5d6.chunk.js.LICENSE.txt"
   },
   {
     "revision": "749561bf544746138087",
